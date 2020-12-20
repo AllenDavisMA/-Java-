@@ -19,8 +19,13 @@ public class Bootstrap {
         red.setOpenWay(random);
     }
 
+    public void testMerge1() {
+        ////
+        System.out.println("testmerge11!!");
+    }
+
     public void testMerge() {
-        System.out.println("testMerge");
+        System.out.println("testMerge222");
     }
 
 }
