@@ -28,5 +28,9 @@ public class Bootstrap {
         System.out.println("testMerge222");
     }
 
+    public void testMerge3() {
+        System.out.println("testMerge333");
+    }
+
 }
 
