@@ -18,11 +18,10 @@ public class Bootstrap {
         OpenMode random = new RandomMode();
         red.setOpenWay(random);
     }
-    
-    public void testMerge() {
-        System.out.println("testMerge111");
-    }
 
+    public void testMerge() {
+        System.out.println("testMerge");
+    }
 
 }
 
